@@ -19,7 +19,7 @@ typing_text: Software Engineer
 email: patricianicole.opetina@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
-github_username: fatrixienicolieopetina
+github_username: niicoolest
 dev_username: pat_the99
 linkedin_username: patricia-nicole-opetina-b589a0209
 twitter_username: 
@@ -33,7 +33,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Software Developer with 5+ years experience in Java development. Currently employed as mid-level Java backend engineer at ING Hubs PH. Aside from Java, also doing some JS development on the sides. Plays with front-end on my free-time. Sample works can be found at <a class="highlight-link" href="https://github.com/fatrixienicolieopetina" target="_blank" rel="noreferrer"> Github </a>.
+about_me_description: Software Developer with 5+ years experience in Java development. Currently employed as mid-level Java backend engineer at ING Hubs PH. Aside from Java, also doing some JS development on the sides. Plays with front-end on my free-time. Sample works can be found at <a class="highlight-link" href="https://github.com/niicoolest" target="_blank" rel="noreferrer"> Github </a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -85,7 +85,7 @@ contact_description: Anything to share or say? Contact me.
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: fatrixienicolieopetina/pat_the99
+repository: niicoolest/pat_the99
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -105,7 +105,7 @@ projects:
     - google-homepage
     - jollibee
     - todo-list
-    - fatrixienicolieopetina
+    - niicoolest
 
 
 # GOOGLE-ANALYTICS

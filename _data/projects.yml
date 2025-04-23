@@ -15,35 +15,21 @@
 
 - name: What's the Weather?
   descr: "Fetches weather data of valid locations using openweather API"
-  demo: https://fatrixienicolieopetina.github.io/weather-app/
+  demo: https://niicoolest.github.io/weather-app/
   tags:
     - tag: Javascript
     - tag: CSS
 
 - name: Etch-a-Sketch
   descr: "Entry to The Odin Project's Etch-A-Sketch Project"
-  demo: https://fatrixienicolieopetina.github.io/etch-a-sketch
+  demo: https://niicoolest.github.io/etch-a-sketch
   tags:
     - tag: Javascript
     - tag: CSS
-
-- name: Book Library
-  descr: "Site where I put my book reads of the year "
-  demo: https://fatrixienicolieopetina.github.io/book-library
-  tags:
-    - tag: Javascript
-    - tag: CSS
-    - tag: Firebase
-  
-- name: Java Reviewer
-  descr: "Notes taken for Java Certification Review "
-  demo: https://github.com/fatrixienicolieopetina/java-1z0819
-  tags:
-    - tag: Java
 
 - name: Portfolio Website
   descr: "Personal Website Using React"
-  demo: https://fatrixienicolieopetina.github.io/portfolio-website
+  demo: https://niicoolest.github.io/portfolio-website
   tags:
     - tag: Javascript
     - tag: React
@@ -52,7 +38,7 @@
 
 - name: Tic-Tac-Toe
   descr: "Entry for The Odin Projects's Tic Tac Toe Exercise"
-  demo: https://fatrixienicolieopetina.github.io/tictactoe/
+  demo: https://niicoolest.github.io/tictactoe/
   tags:
     - tag: Javascript
     - tag: Minimax
